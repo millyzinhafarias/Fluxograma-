@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(204, 25, 25);
+    color: rgb(26, 124, 189);
+    font-family: "Playwrite DE SAS", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: greenyellow;
+    color: whitesmoke;
+    font-family: "Playwrite DE SAS", cursive;
+}
